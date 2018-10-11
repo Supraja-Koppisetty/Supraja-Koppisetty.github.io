@@ -1,0 +1,20 @@
+/* styles have to be written from top to bottom order per say from body to p tag  */
+body{
+    background-image: url(logan-lambert-1090549-unsplash.jpg);
+    background-size: cover;
+    color: white;
+}
+h2{
+  color: white;
+  text-align: center;
+  cursor:pointer;
+}
+li{
+  display:inline-block;
+  color: white;
+}
+li a{
+  color: white;
+  list-style-type: none;
+  text-decoration: none;
+}
